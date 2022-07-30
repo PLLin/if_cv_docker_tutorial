@@ -1,0 +1,4 @@
+fastapi
+uvicorn==0.16.0
+numpy
+opencv-python==4.2.0.32
